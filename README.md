@@ -1,7 +1,6 @@
 # Quiz_app
-If you love watching F.R.I.E.N.D.S, you should definitely take this Friends Trivia quiz to prove whether you are a true fan or not! 
-
-Don't worry this app has a scoreboard that will keep count of your scores and show it at the end of the quiz.
+This is a Friends (TV show) trivia quiz which contains multiple questions followed by a scoreboard that keeps count of the score based on number of questions answered correctly and show it at the end of the quiz.
 
 
-Happy Quizzing! 
+
+Happy Quizzing!
